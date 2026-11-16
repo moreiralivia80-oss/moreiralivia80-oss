@@ -4,13 +4,14 @@ Estagiária de TI em uma empresa multinacional e estudante de **Análise e Desen
 
 ### Tecnologias
 
-C# · .NET · ASP.NET Core · Entity Framework Core · Python · Pandas · Scikit-Learn · Flask · SQL · SQLite · Git · UiPath (RPA)
+C# · .NET · ASP.NET Core · Entity Framework Core · Windows Forms · xUnit · Python · Pandas · Scikit-Learn · Flask · SQL · SQLite · Git · UiPath (RPA)
 
 ### Projetos em destaque
 
 | Projeto | Descrição |
 |---|---|
 | **[Açaí Galáctico](https://github.com/moreiralivia80-oss/Acai-Galactico-Publico)** | Sistema completo para açaiteria: site com pedidos, painel administrativo, API REST e aplicativo desktop em C#/.NET, com arquitetura em camadas. [Site publicado](https://acaigalactico.runasp.net) |
+| **[Cofrinho Digital](https://github.com/moreiralivia80-oss/cofrinho-digital)** | Aplicativo desktop em C# com regras de negócio separadas da interface: limite diário de saque, taxa, histórico salvo em JSON e testes automatizados. |
 | **[Automação de relatórios](https://github.com/moreiralivia80-oss/automacao-relatorios-python)** | Automações em Python que transformam arquivos CSV e dados de uma API REST em relatórios Excel formatados, com testes automatizados. |
 | **[Classificação de Iris](https://github.com/moreiralivia80-oss/classificacao-iris)** | Modelo de machine learning com validação cruzada, comparação de algoritmos e script de previsão com testes. |
 
