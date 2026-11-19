@@ -12,6 +12,7 @@ C# · .NET · ASP.NET Core · Entity Framework Core · Windows Forms · xUnit ·
 |---|---|
 | **[Açaí Galáctico](https://github.com/moreiralivia80-oss/acai-galactico-sistema)** | Sistema completo para açaiteria em C#/.NET, com arquitetura em camadas: site com montagem de pedidos, carrinho e pagamento simulado, painel administrativo, API REST e aplicativo desktop. A [versão publicada](https://acaigalactico.runasp.net) é uma adaptação feita para o marketing da loja real: vitrine com cardápio, conteúdo editável pelo painel e pedidos pelo WhatsApp. |
 | **[Cofrinho Digital](https://github.com/moreiralivia80-oss/cofrinho-digital)** | Aplicativo desktop em C# com regras de negócio separadas da interface: limite diário de saque, taxa, histórico salvo em JSON e testes automatizados. |
+| **[Conecta Studies](https://github.com/moreiralivia80-oss/conecta-studies)** | Aplicação web de planejamento de estudos em Python, Flask e SQLite (projeto final do CS50x): tarefas, cronograma automático, metas e relatórios, com testes automatizados. |
 | **[Automação de relatórios](https://github.com/moreiralivia80-oss/automacao-relatorios-python)** | Automações em Python que transformam arquivos CSV e dados de uma API REST em relatórios Excel formatados, com testes automatizados. |
 | **[Classificação de Iris](https://github.com/moreiralivia80-oss/classificacao-iris)** | Modelo de machine learning com validação cruzada, comparação de algoritmos e script de previsão com testes. |
 
